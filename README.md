@@ -69,6 +69,7 @@ Inspired by [@sindresorhus](https://github.com/sindresorhus) [awesome](https://g
     - [javascript-design-pattern](https://github.com/nnupoor/js_designpatterns)
 - [lisp-cheat-sheet](http://faculty.smcm.edu/acjamieson/s13/LispCheatSheet.pdf)
 - [lua-cheat-sheet](http://lua-users.org/files/wiki_insecure/users/thomasl/luarefv51single.pdf)
+- [mojo-cheat-sheet](https://njoroge.tomorrow.co.ke/blog/mojo/mojo_cheat_sheet)
 - [objective-c-cheat-sheet](https://github.com/iwasrobbed/Objective-C-CheatSheet)
 - [ocaml-cheat-sheet](http://ocaml.org/docs/cheat_sheets.html)
 - [python-cheat-sheet](http://www.addedbytes.com/cheat-sheets/python-cheat-sheet/)
